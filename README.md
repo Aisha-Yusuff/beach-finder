@@ -67,35 +67,35 @@ Here are screenshots of our website to display it's UI:
 
 Homepage:
 
-&nbsp;<img style="border:5px solid black" src="Screenshots/Homepage.png" alt="homepageScreenshot" width="500"/>
+&nbsp;<img src="Screenshots/Homepage.png" alt="homepageScreenshot" width="500"/>
 
 Homepage with our interactive map:
 
-<br> <img style="border:5px solid black" src="Screenshots/Homepage2.png" alt="homepageAndMapScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Homepage2.png" alt="homepageAndMapScreenshot" width="500"/>
 
 Beach page for Bright Central beach:
 
-<br> <img style="border:5px solid black" src="Screenshots/Homepage.png" alt="BrightonBeachScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Homepage.png" alt="BrightonBeachScreenshot" width="500"/>
 
 The weather forecast for Brighton Central beach:
 
-<br> <img style="border:5px solid black" src="Screenshots/Brighton-page-weather.png" alt="BrightonBeachWeatherScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Brighton-page-weather.png" alt="BrightonBeachWeatherScreenshot" width="500"/>
 
 The tide and reviews for Bright Central beach:
 
-<br> <img style="border:5px solid black" src="Screenshots/Brighton-page-tide.png" alt="BrightonBeachTideScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Brighton-page-tide.png" alt="BrightonBeachTideScreenshot" width="500"/>
 
 Reviews feature for a signed-in user:
 
-<br> <img style="border:5px solid black" src="Screenshots/Reviews.png" alt="CreateReviewScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Reviews.png" alt="CreateReviewScreenshot" width="500"/>
 
 Registration page:
 
-<br> <img style="border:5px solid black" src="Screenshots/Registerpage.png" alt="RegistrationPageScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Registerpage.png" alt="RegistrationPageScreenshot" width="500"/>
 
 Sign in page:
 
-<br> <img style="border:5px solid black" src="Screenshots/SignInPage.png" alt="SignInPageScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/SignInPage.png" alt="SignInPageScreenshot" width="500"/>
 
 # Approaching the task
 
