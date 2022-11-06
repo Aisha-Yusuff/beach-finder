@@ -67,20 +67,27 @@ Here are screenshots of our website to display it's UI:
 
 1. Our homepage
    <img src="Screenshots/Homepage.png" alt="homepageScreenshot" width="500"/>
+
 2. Our interactive map that can be found on the homepage
    <img src="Screenshots/Homepage2.png" alt="homepageAndMapScreenshot" width="500"/>
+
 3. Our beach page for Bright Central beach
    <img src="Screenshots/Homepage.png" alt="BrightonBeachScreenshot" width="500"/>
+
 4. The weather forecast for Brighton Central beach
    <img src="Screenshots/Brighton-page-weather.png" alt="BrightonBeachWeatherScreenshot" width="500"/>
+
 5. The tide and reviews for Bright Central beach
    <img src="Screenshots/Brighton-page-tide.png" alt="BrightonBeachTideScreenshot" width="500"/>
-6. Our registration page
-   <img src="Screenshots/Registerpage.png" alt="RegistrationPageScreenshot" width="500"/>
-7. Our sign in page
-   <img src="Screenshots/SignInPage.png" alt="SignInPageScreenshot" width="500"/>
-8. Our reviews for a signed-in user
+
+6. Our reviews for a signed-in user
    <img src="Screenshots/Reviews.png" alt="CreateReviewScreenshot" width="500"/>
+
+7. Our registration page
+   <img src="Screenshots/Registerpage.png" alt="RegistrationPageScreenshot" width="500"/>
+
+8. Our sign in page
+   <img src="Screenshots/SignInPage.png" alt="SignInPageScreenshot" width="500"/>
 
 # Approaching the task
 
