@@ -75,7 +75,7 @@ Homepage with our interactive map:
 
 Beach page for Bright Central beach:
 
-&nbsp; <img src="Screenshots/Homepage.png" alt="BrightonBeachScreenshot" width="500"/>
+&nbsp; <img src="Screenshots/Brighton-page.png" alt="BrightonBeachScreenshot" width="500"/>
 
 The weather forecast for Brighton Central beach:
 
