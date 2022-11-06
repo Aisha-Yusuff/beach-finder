@@ -63,7 +63,7 @@ We created a JavaScript object locally for the beaches we found the information 
 
 # User Interface
 
-Here are screenshots of our website to display it's UI:
+Here are a collection of images to display the user interface of our website.
 
 Homepage:
 
