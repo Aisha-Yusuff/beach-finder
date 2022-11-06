@@ -61,19 +61,19 @@ The weather information uses [Visual Crossing's Weather API](https://www.visualc
 
 We created a JavaScript object locally for the beaches we found the information on [Environment Agency's Bathing Water website](https://environment.data.gov.uk/bwq/profiles/) and they are also stored on the MongoDB Atlas database.
 
-# Our Website
+# User Interface
 
 Here are screenshots of our website to display it's UI:
 
-Our homepage:
+Homepage:
 
-<br> <img style="border:5px solid black" src="Screenshots/Homepage.png" alt="homepageScreenshot" width="500"/>
+&nbsp;<img style="border:5px solid black" src="Screenshots/Homepage.png" alt="homepageScreenshot" width="500"/>
 
-Our interactive map that can be found on the homepage:
+Homepage with our interactive map:
 
 <br> <img style="border:5px solid black" src="Screenshots/Homepage2.png" alt="homepageAndMapScreenshot" width="500"/>
 
-Our beach page for Bright Central beach:
+Beach page for Bright Central beach:
 
 <br> <img style="border:5px solid black" src="Screenshots/Homepage.png" alt="BrightonBeachScreenshot" width="500"/>
 
@@ -85,15 +85,15 @@ The tide and reviews for Bright Central beach:
 
 <br> <img style="border:5px solid black" src="Screenshots/Brighton-page-tide.png" alt="BrightonBeachTideScreenshot" width="500"/>
 
-Our reviews for a signed-in user:
+Reviews feature for a signed-in user:
 
 <br> <img style="border:5px solid black" src="Screenshots/Reviews.png" alt="CreateReviewScreenshot" width="500"/>
 
-Our registration page:
+Registration page:
 
 <br> <img style="border:5px solid black" src="Screenshots/Registerpage.png" alt="RegistrationPageScreenshot" width="500"/>
 
-Our sign in page:
+Sign in page:
 
 <br> <img style="border:5px solid black" src="Screenshots/SignInPage.png" alt="SignInPageScreenshot" width="500"/>
 
