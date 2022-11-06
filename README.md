@@ -66,7 +66,7 @@ We created a JavaScript object locally for the beaches; we found the information
 Here are screenshots of our website to display it's UI:
 
 1. Our homepage
-<img src="Screenshots/Homepage.png" alt="homepageScreenshot" width="200"/>
+<img src="Screenshots/Homepage.png" alt="homepageScreenshot" width="500"/>
 2. Our interactive map that can be found on the homepage
    ![homepageAndMapScreenshot](Screenshots/Homepage2.png)
 3. Our beach page for Bright Central beach
